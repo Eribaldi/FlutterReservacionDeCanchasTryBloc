@@ -1,10 +1,4 @@
-# prueba_cancha
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Intentando usar bloc provider, el cual funciona, pero no me dio tiempo a actualizar los estados de los widgets.
 
 A few resources to get you started if this is your first Flutter project:
 
